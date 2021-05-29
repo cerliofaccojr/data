@@ -1,0 +1,1 @@
+29-05-2021.tfrecords - 45MG - 953 imgs - 808 annotaion
